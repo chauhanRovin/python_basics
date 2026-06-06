@@ -8,6 +8,7 @@ Airthmetic operators:
 % Remainder
 ** Power
 
+
   Comparison operators:
   > Greater than
   < Smaller than
