@@ -18,3 +18,13 @@
    ** String to Float
       height = float(input("Enter your height in meters: "))
       print("Height:", height)
+
+
+# Key Learnings
+* input() is used to take user input.
+* User input is stored as a string by default.
+* int() converts data to integer.
+* float() converts data to decimal numbers.
+* str() converts data to string.
+* Type conversion is essential when performing calculations on user input.
+* User input and type conversion are widely used in real-world Python applications and data analysis projects
